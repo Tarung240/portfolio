@@ -322,7 +322,7 @@ right: 50px;
     grid-gap: 20px;
     justify-content: center;
     align-items: center;
-    top: 50px;
+    top: 80px;
   }
  .sec-5 .grid-container .card{
     display: flex;
@@ -385,7 +385,7 @@ right: 50px;
 .sec-6 .me{
 position: relative;
 justify-content: center;
-left: 450px;
+left: 500px;
 text-align: center;
 font-size: 25px;
 font-family: "Raleway",sans-serif;
