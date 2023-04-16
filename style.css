@@ -20,11 +20,11 @@ body{background-color: black;}
 .sec-1 .first{
     position: relative;
     justify-content: center;
-    left: 2%;
+    left: 1.5%;
 }
 .sec-1 .first .h1{
     position: relative;
-    left:10%;
+    left:7%;
     text-align: center;
     font-size: 25px;
     font-family: 'Raleway',sans-serif;
