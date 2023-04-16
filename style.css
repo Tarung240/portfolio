@@ -25,7 +25,7 @@ body{background-color: black;}
     position: relative;
     left: 50px;
     text-align: center;
-    font-size: 35px;
+    font-size: 25px;
     font-family: 'Raleway',sans-serif;
     width: fit-content;
     background: linear-gradient(to right,red,yellow, blue,skyblue  , pink  );
@@ -44,7 +44,7 @@ body{background-color: black;}
     white-space: nowrap;
     overflow: hidden;
     border-right: 0.1em solid black;
-    font-size: 280px;
+    font-size: 22px;
     left: 10px;
 }
 .sec-1 .intro{
