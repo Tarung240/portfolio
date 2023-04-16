@@ -319,7 +319,7 @@ right: 50px;
     position: relative;
     display: flex;
     grid-template-columns: repeat(2,1fr);
-    grid-gap: 25px;
+    grid-gap: 30px;
     justify-content: center;
     align-items: center;
     top: 80px;
@@ -385,7 +385,7 @@ right: 50px;
 .sec-6 .me{
 position: relative;
 justify-content: center;
-left: 540px;
+left: 570px;
 text-align: center;
 font-size: 25px;
 font-family: "Raleway",sans-serif;
