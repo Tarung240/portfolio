@@ -78,14 +78,14 @@ width: 60%;
 }
 .sec-2 .container .button2{
     position: relative;
-    bottom:120px;
+    bottom:120%;
     background-color: blueviolet;
     color: antiquewhite;
-    width: 170px;
-    height: 50px;
+    width: 150%;
+    height: 40%;
     border-radius: 20px;
     border: transparent;
-    left: 160px;
+    left: 160%;
     inset: 0;
     overflow: hidden;
     transition: transform .2s ease-in-out;
