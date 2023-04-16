@@ -162,9 +162,9 @@ right: 30%;
         grid-gap: 20px; /* Add spacing between columns */
         border: 1px solid #ddd; /* Add border */
         border-radius: 10px; /* Add rounded corners */
-        padding: 15%; /* Add padding */
-        max-width: 30px; 
-        height: 30px;/* Set maximum width */
+        padding: 20px; /* Add padding */
+        max-width: 220px; 
+        height: 100px;/* Set maximum width */
         margin: auto; /* Center the card horizontally */
         right: 280px;
         justify-content: space-around;
@@ -175,8 +175,8 @@ right: 30%;
         background-image: url("https://i.ibb.co/LN4FpGT/Whats-App-Image-2023-04-15-at-16-05-18-removebg-preview.png"); /* Add image */
         background-size: cover; /* Scale image to fill container */
         background-position: center; /* Center image */
-        height: 40%; /* Set image height */
-        width: 40%;
+        height: 230px; /* Set image height */
+        width: 150px;
         border-radius: 50%; /* Make image circular */
         left: 80%;
         position: relative;
