@@ -152,7 +152,7 @@ right: 30%;
 .sec-3 .container3{
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 600px;
     position: relative;
     }
     .sec-3 .profile-card {
@@ -168,7 +168,7 @@ right: 30%;
         margin: auto; /* Center the card horizontally */
         right: 280px;
         justify-content: space-around;
-        top: 10%;
+        top: 10px;
       }
       
       .profile-image {
