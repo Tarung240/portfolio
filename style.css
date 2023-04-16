@@ -23,7 +23,7 @@ body{background-color: black;}
 }
 .sec-1 .first .h1{
     position: relative;
-    left: 130px;
+    left: 160px;
     text-align: center;
     font-size: 25px;
     font-family: 'Raleway',sans-serif;
@@ -44,7 +44,7 @@ body{background-color: black;}
     white-space: nowrap;
     overflow: hidden;
     border-right: 0.1em solid black;
-    font-size: 20px;
+    font-size: 18px;
     left: 12px;
 }
 .sec-1 .intro{
@@ -83,7 +83,7 @@ width: 600px;
     height: 50px;
     border-radius: 20px;
     border: transparent;
-    left: 130px;
+    left: 160px;
     inset: 0;
     overflow: hidden;
     transition: transform .2s ease-in-out;
@@ -125,7 +125,7 @@ width: 600px;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: relative;
-    left: 70px;
+    left: 100px;
 }
 
 .sec-2 .container2{
@@ -160,10 +160,10 @@ right: 50px;
         border: 1px solid #ddd; /* Add border */
         border-radius: 10px; /* Add rounded corners */
         padding: 20px; /* Add padding */
-        max-width: 220px; 
-        height: 100px;/* Set maximum width */
+        max-width: 280px; 
+        height: 120px;/* Set maximum width */
         margin: auto; /* Center the card horizontally */
-        right: 200px;
+        right: 160px;
         justify-content: space-around;
         top: 10px;
       }
