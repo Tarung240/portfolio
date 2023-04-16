@@ -301,7 +301,7 @@ right: 50px;
   .good{
     position: relative;
     justify-content: center;
-    left: 320px;
+    left: 380px;
     text-align: center;
     font-size: 25px;
     font-family: "Raleway";
@@ -333,8 +333,8 @@ right: 50px;
     padding: 10px;
     border-radius: 8px;
     transition: transform .2s ease-in-out;
-    height: 150px;
-    width: 200px;
+    height: 180px;
+    width: 220px;
     margin-top: 2rem;
     position: relative;
   }
@@ -371,7 +371,7 @@ right: 50px;
 .sec-5 .creative{
   position: relative;
     justify-content: center;
-    left: 250px;
+    left: 300px;
     text-align: center;
     font-size: 25px;
     font-family: "Raleway";
