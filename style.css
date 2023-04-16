@@ -85,7 +85,7 @@ width: 60%;
     height: 40%;
     border-radius: 20px;
     border: transparent;
-    left: 160%;
+    left: 130%;
     inset: 0;
     overflow: hidden;
     transition: transform .2s ease-in-out;
@@ -127,7 +127,7 @@ width: 60%;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: relative;
-    left: 100%;
+    left: 50%;
 }
 
 .sec-2 .container2{
@@ -138,9 +138,9 @@ width: 60%;
 }
 .sec-2 .container2 img{
     position: relative;
-    width: 370px;
-    height: 370px;
-right: 50px;
+    width: 90%;
+    height: 90%;
+right: 50%;
 }
 
 .sec-3{
