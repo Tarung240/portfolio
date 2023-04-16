@@ -163,7 +163,7 @@ right: 50px;
         max-width: 280px; 
         height: 120px;/* Set maximum width */
         margin: auto; /* Center the card horizontally */
-        right: 160px;
+        right: 240px;
         justify-content: space-around;
         top: 10px;
       }
@@ -301,7 +301,7 @@ right: 50px;
   .good{
     position: relative;
     justify-content: center;
-    left: 250px;
+    left: 200px;
     text-align: center;
     font-size: 25px;
     font-family: "Raleway";
