@@ -264,8 +264,8 @@ right: 50px;
         padding: 18px;
         border-radius: 10px;
         transition: transform .2s ease-in-out;
-        height: 150px;
-        width: 150px;
+        height:200px;
+        width: 200px;
 
       }
       .card:hover{
@@ -279,8 +279,8 @@ right: 50px;
 
       }
       .card h2{
-        font-size: 15px;
-        margin-bottom: 10px;
+        font-size: 20px;
+        margin-bottom: 15px;
         color: #ddd;
         font-family: "Raleway";
       
@@ -301,7 +301,7 @@ right: 50px;
   .good{
     position: relative;
     justify-content: center;
-    left: 280px;
+    left: 320px;
     text-align: center;
     font-size: 25px;
     font-family: "Raleway";
