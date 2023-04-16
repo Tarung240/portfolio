@@ -14,7 +14,8 @@ body{background-color: black;}
     display: flex;
     justify-content: space-between;
     flex-direction: row-reverse;
-    /* height: 650px; */
+    height:100%;
+    width:100%;
 }
 .sec-1 .first{
     position: relative;
