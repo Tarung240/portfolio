@@ -23,7 +23,7 @@ body{background-color: black;}
 }
 .sec-1 .first .h1{
     position: relative;
-    left: 60px;
+    left: 70px;
     text-align: center;
     font-size: 25px;
     font-family: 'Raleway',sans-serif;
@@ -48,8 +48,8 @@ body{background-color: black;}
     left: 12px;
 }
 .sec-1 .intro{
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     position: relative;
     display: flex;
     bottom: 150px;
