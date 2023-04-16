@@ -53,7 +53,7 @@ body{background-color: black;}
   width:fit-content;
 }
 .sec-1 .intro{
-  width: 100%;
+  width: 50%;
   height: 90%;
   position: relative;
   display: flex;
