@@ -47,6 +47,7 @@ body{background-color: black;}
     border-right: 0.1em solid black;
     font-size: 18px;
     right:15%;
+    position:relative;
 }
 .sec-1 .intro{
     width: 350px;
