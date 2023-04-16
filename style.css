@@ -128,7 +128,7 @@ width: 60%;
     -webkit-text-fill-color: transparent;
     position: relative;
     left: 20%;
-    top:15%;
+    top:12%;
 }
 
 .sec-2 .container2{
@@ -152,7 +152,7 @@ right: 30%;
 .sec-3 .container3{
     display: flex;
     flex-direction: column;
-    width: 600px;
+    width: 100%;
     position: relative;
     }
     .sec-3 .profile-card {
