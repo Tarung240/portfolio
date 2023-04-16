@@ -301,7 +301,7 @@ right: 50px;
   .good{
     position: relative;
     justify-content: center;
-    left: 450px;
+    left: 500px;
     text-align: center;
     font-size: 25px;
     font-family: "Raleway";
@@ -335,7 +335,7 @@ right: 50px;
     transition: transform .2s ease-in-out;
     height: 190px;
     width: 225px;
-    margin-top: 2rem;
+    margin-top: 3rem;
     position: relative;
   }
   .sec-5 .grid-container.card:hover{
@@ -371,7 +371,7 @@ right: 50px;
 .sec-5 .creative{
   position: relative;
     justify-content: center;
-    left: 350px;
+    left: 420px;
     text-align: center;
     font-size: 25px;
     font-family: "Raleway";
