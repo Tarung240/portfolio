@@ -414,6 +414,52 @@ background:linear-gradient(to right,red ,blue ,yellow,blue,skyblue,pink);
 .sec-6 .contact .social img:hover{
   transform: scale(1.4);
 }
+.sunrise {
+  width: 100px;
+  height: 100px;
+  background-color: #f9d71c;
+  border-radius: 50%;
+  position: relative;
+  animation: sunrise 4s ease-in-out infinite;
+}
+
+.sunrise:before {
+  content: "";
+  position: absolute;
+  top: -100%;
+  left: -100%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(0deg, rgba(249, 215, 28, 0) 0%, rgba(249, 215, 28, 0.8) 30%, rgba(249, 215, 28, 1) 70%, rgba(249, 215, 28, 0) 100%);
+  border-radius: 50%;
+  animation: sunrise-gradient 4s ease-in-out infinite;
+  transform-origin: bottom right;
+}
+
+@keyframes sunrise {
+  0% {
+    transform: translateY(100%);
+  }
+  50% {
+    transform: translateY(0%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+
+@keyframes sunrise-gradient {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
 
 .sec-6 .mail{
   position: relative;
