@@ -178,7 +178,7 @@ right: 30%;
       height: 230px; /* Set image height */
       width: 150px;
       border-radius: 50%; /* Make image circular */
-      left: 30%;
+      left: 20%;
       position: relative;
   bottom: 80px;
     }
@@ -191,7 +191,7 @@ right: 30%;
       display: flex;
       flex-direction: column;
       justify-content: center;
-      right: 450px;
+      right: 150px;
       position: relative;
       bottom: 50px;
       font-size: 10px;
