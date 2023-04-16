@@ -162,13 +162,13 @@ right: 30%;
         grid-gap: 20px; /* Add spacing between columns */
         border: 1px solid #ddd; /* Add border */
         border-radius: 10px; /* Add rounded corners */
-        padding: 20px; /* Add padding */
+        padding: 15%; /* Add padding */
         max-width: 280px; 
-        height: 120px;/* Set maximum width */
+        height: 120%;/* Set maximum width */
         margin: auto; /* Center the card horizontally */
         right: 280px;
         justify-content: space-around;
-        top: 10px;
+        top: 10%;
       }
       
       .profile-image {
