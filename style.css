@@ -24,7 +24,7 @@ body{background-color: black;}
 }
 .sec-1 .first .h1{
     position: relative;
-    right:8%;
+    right:5%;
     text-align: center;
     font-size: 25px;
     font-family: 'Raleway',sans-serif;
@@ -74,7 +74,7 @@ body{background-color: black;}
 .sec-2 .container{
 display: flex;
 flex-direction: column;
-width: 600px;
+width: 60%;
 }
 .sec-2 .container .button2{
     position: relative;
