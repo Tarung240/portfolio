@@ -20,9 +20,9 @@ body{background-color: black;}
 .sec-1 .first{
   position: relative;
   justify-content: center;
-  left: 1.7%;
+/*   left: 1.7%; */
   width:100px;
-  right:50%;
+  left:-50%;
 }
 .sec-1 .first .h1{
   position: relative;
