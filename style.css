@@ -23,9 +23,9 @@ body{background-color: black;}
 }
 .sec-1 .first .h1{
     position: relative;
-    left: 90px;
+    left: 50px;
     text-align: center;
-    font-size: 15px;
+    font-size: 35px;
     font-family: 'Raleway',sans-serif;
     width: fit-content;
     background: linear-gradient(to right,red,yellow, blue,skyblue  , pink  );
@@ -44,8 +44,8 @@ body{background-color: black;}
     white-space: nowrap;
     overflow: hidden;
     border-right: 0.1em solid black;
-    font-size: 10px;
-    left: 50px;
+    font-size: 280px;
+    left: 10px;
 }
 .sec-1 .intro{
     width: 300px;
