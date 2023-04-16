@@ -164,7 +164,7 @@ right: 30%;
         border-radius: 10px; /* Add rounded corners */
         padding: 15%; /* Add padding */
         max-width: 280px; 
-        height: 120%;/* Set maximum width */
+        height: 50%;/* Set maximum width */
         margin: auto; /* Center the card horizontally */
         right: 280px;
         justify-content: space-around;
@@ -178,7 +178,7 @@ right: 30%;
         height: 40%; /* Set image height */
         width: 40%;
         border-radius: 50%; /* Make image circular */
-        left: 120%;
+        left: 80%;
         position: relative;
     bottom: 80px;
         
