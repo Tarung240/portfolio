@@ -46,7 +46,7 @@ body{background-color: black;}
     overflow: hidden;
     border-right: 0.1em solid black;
     font-size: 18px;
-    left: 12px;
+    right:15%;
 }
 .sec-1 .intro{
     width: 350px;
