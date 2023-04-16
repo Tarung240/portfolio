@@ -85,7 +85,7 @@ width: 60%;
     height: 40%;
     border-radius: 20px;
     border: transparent;
-    left: 60%;
+    left: 120px;
     inset: 0;
     overflow: hidden;
     transition: transform .2s ease-in-out;
