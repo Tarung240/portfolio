@@ -301,7 +301,7 @@ right: 50px;
   .good{
     position: relative;
     justify-content: center;
-    left: 380px;
+    left: 450px;
     text-align: center;
     font-size: 25px;
     font-family: "Raleway";
@@ -333,8 +333,8 @@ right: 50px;
     padding: 10px;
     border-radius: 8px;
     transition: transform .2s ease-in-out;
-    height: 180px;
-    width: 220px;
+    height: 190px;
+    width: 225px;
     margin-top: 2rem;
     position: relative;
   }
@@ -350,7 +350,7 @@ right: 50px;
 
   }
 .sec-5 .grid-container  .card h2{
-    font-size: 15px;
+    font-size: 16px;
     margin-bottom: 10px;
     color: black;
     font-family: "Raleway";
@@ -363,7 +363,7 @@ right: 50px;
 
 }
  .sec-5 .grid-container .card p{
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.4;
     color: black;
     font-family: "Raleway";
@@ -371,7 +371,7 @@ right: 50px;
 .sec-5 .creative{
   position: relative;
     justify-content: center;
-    left: 300px;
+    left: 350px;
     text-align: center;
     font-size: 25px;
     font-family: "Raleway";
