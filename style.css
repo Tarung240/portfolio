@@ -49,6 +49,7 @@ body{background-color: black;}
   font-size: 18px;
   right:15%;
   position:relative;
+  width:fit-content;
 }
 .sec-1 .intro{
   width: 90%;
