@@ -21,7 +21,7 @@ body{background-color: black;}
   position: relative;
   justify-content: center;
   left: 1.7%;
-  width:fit-content;
+  width:100px;
 }
 .sec-1 .first .h1{
   position: relative;
